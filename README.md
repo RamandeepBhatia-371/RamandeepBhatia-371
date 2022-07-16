@@ -25,16 +25,6 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 - [Gym Diaries Part 1: Ouch!](https://www.alexandramartinez.world/post/gym-diaries-part-1-ouch)
 - [Series: MuleSoft Swag](https://www.alexandramartinez.world/post/series-mulesoft-swag)
 <!-- BLOG:END -->
-
-## ⭐️ GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/alexandramartinez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=buefy&count_private=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&theme=buefy&layout=compact&langs_count=6"/>
-  </a>
-</p>
-
 ## 🤓 Connect
 
 <p align="center">
@@ -42,15 +32,6 @@ decisions in my personal life as well. I enjoy analysing outcomes.
   <a href="https://twitter.com/devalexmartinez"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
-
-## 🧐 MuleSoft Repos
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=DataWeave-scripts&theme=buefy)](https://github.com/alexandramartinez/DataWeave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=buefy)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=buefy)](https://github.com/alexandramartinez/intro-a-dataweave)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=buefy)](https://github.com/alexandramartinez/my-process-api-munits)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=buefy)](https://github.com/alexandramartinez/vampireAPI)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
