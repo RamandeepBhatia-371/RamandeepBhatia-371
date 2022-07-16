@@ -2,7 +2,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="200"/>
 </div>
-I'm a Software Engineer who started creating content and is now a Developer Advocate!
+I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation. I
+started with a computer science bachelor&#39;s degree from Guru Nanak Dev
+University. After that, I just completed postgraduate degree in data science and
+cloud computing. This broad and in-depth education is a big component of my
+expertise as data scientist. My personality, I believe, has also played a
+significant part in my capacity to flourish in this field. I am a very analytical,
+data-driven, and calculated person. I like to look at the statistics before making
+decisions in my personal life as well. I enjoy analysing outcomes.
 
 - 🇲🇽 in 🇨🇦
 - 🐱 🐶 Eris & Waffle
