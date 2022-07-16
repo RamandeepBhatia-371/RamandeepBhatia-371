@@ -15,7 +15,7 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 
 - BS in Computer Science at [Guru Nanak Dev University](https://online.gndu.ac.in/)
 - Post Graduate In Cloud Computing For big data(Data Analytics)  at [Lambton College of of Applied Arts and Technology](https://www.lambtoncollege.ca/)
-- Data Analyst Intern(6 Months) (https://www.womenwhocode.com/monterrey)
+- Data Analyst Intern(6 Months) at [GTB](https://www.womenwhocode.com/monterrey)
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
