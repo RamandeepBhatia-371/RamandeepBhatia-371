@@ -11,11 +11,6 @@ significant part in my capacity to flourish in this field. I am a very analytica
 data-driven, and calculated person. I like to look at the statistics before making
 decisions in my personal life as well. I enjoy analysing outcomes.
 
-- 🇲🇽 in 🇨🇦
-- 🐱 🐶 Eris & Waffle
-- ❤️ Horror, Disney, Jurassic Park, Coffee, Halloween
-- 🎮 PS4 & Switch
-
 ## 👋 About me
 
 - Developer Advocate at [MuleSoft](https://www.mulesoft.com/)
