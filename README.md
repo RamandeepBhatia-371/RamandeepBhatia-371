@@ -13,9 +13,9 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 
 ## 👋 About me
 
-- Developer Advocate at [MuleSoft](https://www.mulesoft.com/)
-- Founder & Content Creator at [ProstDev](https://www.prostdev.com/)
-- Lead at [Women Who Code Monterrey](https://www.womenwhocode.com/monterrey)
+- BS in Computer Science at [MuleSoft](https://www.mulesoft.com/)
+- Post Graduate In Cloud Computing For big data(Data Analytics)  at [ProstDev](https://www.prostdev.com/)
+- Data Analyst Intern(6 Months) (https://www.womenwhocode.com/monterrey)
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
