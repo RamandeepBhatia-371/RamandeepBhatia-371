@@ -20,10 +20,10 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
-- [Gym Diaries Part 2: First 4-day record!](https://www.alexandramartinez.world/post/gym-diaries-part-2-first-4-day-record)
-- [Newsletter #1 - Just getting started!](https://www.alexandramartinez.world/post/newsletter-1-just-getting-started)
-- [Women Who Mule - Workshop series: Create your own blog from scratch without a single line of code!](https://www.alexandramartinez.world/post/women-who-mule-workshop-series-create-your-own-blog-from-scratch-without-a-single-line-of-code)
-- [Gym Diaries Part 1: Ouch!](https://www.alexandramartinez.world/post/gym-diaries-part-1-ouch)
+- [Covid Data Exploration]
+- [Weather Data Prediction Project]
+- [Capstone Project]
+- []
 - [Series: MuleSoft Swag](https://www.alexandramartinez.world/post/series-mulesoft-swag)
 <!-- BLOG:END -->
 ## 🤓 Connect
