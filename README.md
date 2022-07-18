@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="200"/>
 </div>
-#I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation.I
-started with a computer science bachelor&#39;s degree from Guru Nanak Dev
-University. After that, I just completed postgraduate degree in data science and
-cloud computing. This broad and in-depth education is a big component of my
-expertise as data scientist. My personality, I believe, has also played a
-significant part in my capacity to flourish in this field. I am a very analytical,
-data-driven, and calculated person. I like to look at the statistics before making
-decisions in my personal life as well. I enjoy analysing outcomes.
+# I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation.I
+# started with a computer science bachelor&#39;s degree from Guru Nanak Dev
+# University. After that, I just completed postgraduate degree in data science and
+# cloud computing. This broad and in-depth education is a big component of my
+# expertise as data scientist. My personality, I believe, has also played a
+# significant part in my capacity to flourish in this field. I am a very analytical,
+# data-driven, and calculated person. I like to look at the statistics before making
+# decisions in my personal life as well. I enjoy analysing outcomes.
 
 ## 👋 About me
 
