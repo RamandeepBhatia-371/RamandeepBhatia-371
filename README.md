@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="200"/>
 </div>
-I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation. I
+I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation.I
 started with a computer science bachelor&#39;s degree from Guru Nanak Dev
 University. After that, I just completed postgraduate degree in data science and
 cloud computing. This broad and in-depth education is a big component of my
