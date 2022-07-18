@@ -30,7 +30,7 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 <p align="center">
  <a href="https://www.linkedin.com/in/ramandeep-bhatia-26954b1b9/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/ran_bhatia/"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ran_bhatia/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
