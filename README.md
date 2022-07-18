@@ -1,6 +1,6 @@
 # Hello, folks! I'm Raman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="200"/>
 </div>
 I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation. I
