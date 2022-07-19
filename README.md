@@ -1,4 +1,4 @@
-# Hello, folks! I'm Raman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div id="header" align="center">
   <img src="https://drive.google.com/drive/my-drive/Capstone Project.gif" width="200"/>
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="200"/>
