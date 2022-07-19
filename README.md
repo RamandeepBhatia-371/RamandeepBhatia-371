@@ -21,7 +21,7 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
-- [Covid Data ETL Project Latest]
+- [Covid Data ETL Project Latest (Exploration)]
 - [Weather Data Prediction Project]
 - [Capstone Project]
 - [Chatbot Intergartions]
