@@ -24,6 +24,7 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 - [Covid Data Exploration]
 - [Weather Data Prediction Project]
 - [Capstone Project]
+- [Chatbot Intergartions]
 
 <!-- BLOG:END -->
 ## 🤓 Connect
