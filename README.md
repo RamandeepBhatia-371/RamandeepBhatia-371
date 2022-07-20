@@ -11,7 +11,7 @@ cloud computing. This broad and in-depth education is a big component of my
 expertise as data scientist. My personality, I believe, has also played a
 significant part in my capacity to flourish in this field. I am a very analytical,
 data-driven, and calculated person. I like to look at the statistics before making
-decisions in my personal life as well. I enjoy analysing outcomes.]
+decisions in my personal life as well. I enjoy analysing outcomes]
 
 ## 👋 About me
 
