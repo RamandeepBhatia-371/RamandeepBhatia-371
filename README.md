@@ -5,14 +5,14 @@
   <img src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="200"/>
 </div>
 <!-- BLOG:START -->
-- [I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation. Mathematics was my major in high school then I
+- I'm a Data Analytics Graduate, My skills as a Data Scientist are based on a solid mathematical foundation. Mathematics was my major in high school then I
 started with a computer science bachelor's degree from Guru Nanak Dev
 University. After that, I just completed postgraduate degree in data science and
 cloud computing. This broad and in-depth education is a big component of my
 expertise as data scientist. My personality, I believe, has also played a
 significant part in my capacity to flourish in this field. I am a very analytical,
 data-driven, and calculated person. I like to look at the statistics before making
-decisions in my personal life as well. I enjoy analysing outcomes]
+decisions in my personal life as well. I enjoy analysing outcomes.
 <!-- BLOG:END -->
 
 ## 👋 About me
