@@ -1,8 +1,7 @@
 # Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div id="header" align="center">
   <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/!.gif" height="400" width="800"/>
-  <img src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="200"/>
-</div>
+ </div>
 
 - I'm a recent Data Analytics Graduate, my skills as a Data Scientist are based on a solid mathematical foundation. Mathematics was my major in high school then I
 started with a computer science bachelor's degree from Guru Nanak Dev
