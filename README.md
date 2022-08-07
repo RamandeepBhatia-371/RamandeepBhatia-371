@@ -10,7 +10,7 @@ significant part in my capacity to flourish in this field. I am a very analytica
 data-driven, and calculated person. I like to look at the statistics before making
 decisions in my personal life as well. I enjoy analysing outcomes.
 <div id="header" align="center">
-  <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/Raman%20BHatia.gif" height="200" width="800"/>
+  <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/Raman%20BHatia.gif" height="300" width="800"/>
   
  </div>
 
