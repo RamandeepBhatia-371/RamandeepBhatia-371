@@ -3,7 +3,7 @@
 
 - I'm a recent Data Analytics Graduate, my skills as a Data Scientist are based on a solid mathematical foundation. Mathematics was my major in high school then I
 started with a computer science bachelor's degree from Guru Nanak Dev
-University. After that, I just completed postgraduate degree in data science and
+University.I just completed postgraduate degree in data science and
 cloud computing. This broad and in-depth education is a big component of my
 expertise as data scientist. My personality, I believe, has also played a
 significant part in my capacity to flourish in this field. I am a very analytical,
