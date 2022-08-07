@@ -11,6 +11,7 @@ data-driven, and calculated person. I like to look at the statistics before maki
 decisions in my personal life as well. I enjoy analysing outcomes.
 <div id="header" align="center">
   <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/The%20Coding%20Space!.gif" height="400" width="800"/>
+  <img src="https://giphy.com/gifs/thecodingspacerd-space-coding-thecodingspace-ve43TyDQ3B4me7d22z" height="400" width="800"/>
  </div>
 
 ## 👋 About me
