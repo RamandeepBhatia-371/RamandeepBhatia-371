@@ -1,7 +1,5 @@
 # Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<div id="header" align="center">
-  <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/The%20Coding%20Space!.gif" height="300" width="800"/>
- </div>
+
 
 - I'm a recent Data Analytics Graduate, my skills as a Data Scientist are based on a solid mathematical foundation. Mathematics was my major in high school then I
 started with a computer science bachelor's degree from Guru Nanak Dev
@@ -11,7 +9,9 @@ expertise as data scientist. My personality, I believe, has also played a
 significant part in my capacity to flourish in this field. I am a very analytical,
 data-driven, and calculated person. I like to look at the statistics before making
 decisions in my personal life as well. I enjoy analysing outcomes.
-
+<div id="header" align="center">
+  <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/The%20Coding%20Space!.gif" height="300" width="800"/>
+ </div>
 
 ## 👋 About me
 
