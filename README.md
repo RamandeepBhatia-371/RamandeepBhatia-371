@@ -1,6 +1,6 @@
 # Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div id="header" align="center">
-  <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/!.gif" height="200" width="800"/>
+  <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/!.gif" height="400" width="800"/>
   <img src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="200"/>
 </div>
 
