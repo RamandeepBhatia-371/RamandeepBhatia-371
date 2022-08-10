@@ -1,7 +1,7 @@
 # Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- I'm a recent Data Science Graduate, my skills as a Data Scientist are based on a solid mathematical foundation. I have 1 year of experince as a lead Data Analyst at GTB Infotech. Mathematics was my major in high school then I
+- My skills as a Data Scientist are based on a solid mathematical foundation. I have 1 year of experince as a lead Data Analyst at GTB Infotech. Mathematics was my major in high school then I
 started with a computer science bachelor's degree from Guru Nanak Dev
 University.I just completed postgraduate degree in data science and
 cloud computing. This broad and in-depth education is a big component of my
