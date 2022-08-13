@@ -1,13 +1,7 @@
 # Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- My skills as a Data Scientist are based on a solid mathematical foundation. I have 1 year of experince as a lead Data Analyst at GTB Infotech. Mathematics was my major in high school then I
-started with a computer science bachelor's degree from Guru Nanak Dev
-University.I just completed postgraduate degree in data science and
-cloud computing. This broad and in-depth education is a big component of my
-expertise as data scientist. My personality, I believe, has also played a
-significant part in my capacity to flourish in this field. I am a very analytical,
-data-driven, and calculated person. I like to look at the statistics before making
+- My skills as a Data Scientist are based on a solid mathematical foundation. I have 1 year of experince as a lead Data Analyst at GTB Infotech. Mathematics was my major in high school then I started with a computer science bachelor's degree from Guru Nanak Dev University.I just completed postgraduate degree in data science and cloud computing. This broad and in-depth education is a big component of my expertise as data scientist. My personality, I believe, has also played a significant part in my capacity to flourish in this field. I am a very analytical, data-driven, and calculated person. I like to look at the statistics before making
 decisions in my personal life as well. I enjoy analysing outcomes.
 <div id="header" align="center">
   <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/Raman%20BHatia.gif" height="400" width="800"/>
