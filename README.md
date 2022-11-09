@@ -12,7 +12,7 @@ decisions in my personal life as well. I enjoy analysing outcomes.
 
 - BS in Computer Science from [Guru Nanak Dev University](https://online.gndu.ac.in/)
 - Post Graduation In Cloud Computing For Big Data(Data Analytics) from [Lambton College of Applied Arts and Technology](https://www.lambtoncollege.ca/)
-- Data Analyst(BI) Experience(1 year) at [GTB Infotech](https://gtbinfotech.com/)
+- Data Analyst(BI)Experience(1 year) at [GTB Infotech](https://gtbinfotech.com/)
 - Data and Insights Analyst(Present) at [Deciem](https://deciem.com/en-ca)
 
 ## 📝 Latest Content
