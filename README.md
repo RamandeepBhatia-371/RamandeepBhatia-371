@@ -1,7 +1,7 @@
 # Hello, folks! This is Raman. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- Experienced data professional skilled in data analysis, management, and software development. Proficient in Python, R, SQL, and various analytics tools. Spend 5+ years doing number crunching and database management and data engneering/analysis in previous jobs and academics. Postgraduate degree in data science and cloud computing. Passionate about leveraging technology for data-driven decision-making. Committed to delivering high-quality work and continuously expanding skills. Let's connect and unlock the power of data together.
+- Experienced data professional skilled in data analysis, management, and software development. Proficient in Python, R, SQL, and various analytics tools. Spent 5+ years doing number crunching and database management and data engneering/analysis in previous jobs and academics. Postgraduate degree in data science and cloud computing. Passionate about leveraging technology for data-driven decision-making. Committed to delivering high-quality work and continuously expanding skills. Let's connect and unlock the power of data together.
 <div id="header" align="center">
             <img src="https://github.com/RamandeepBhatia-371/CapstoneProject-Chatbot-/blob/main/Raman%20BHatia.gif" height="400" width="800"/>
   
