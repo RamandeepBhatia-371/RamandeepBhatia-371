@@ -11,7 +11,7 @@
 
 - BS in Computer Science from [Guru Nanak Dev University](https://online.gndu.ac.in/)
 - Post Graduation In Cloud Computing For Big Data (Data Analytics) from [Lambton College of Applied Arts and Technology](https://www.lambtoncollege.ca/)
-- Data Analyst (Business Intelligence) (2019-2020) at [GTB Infotech](https://gtbinfotech.com/)
+- Data Analyst (Business Intelligence) (2019-2020) at [GTB Group](https://gtbtransformers.com/)
 - Data and Insights Analyst (Present) at [Deciem](https://deciem.com/en-ca)
 
 ## 📝 Latest Content
